@@ -35,7 +35,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=joaovictor-ifrn&theme=github-compact&hide_border=true&area=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vilikinho098&theme=github-compact&hide_border=true&area=true" width="100%" />
 </div>
 
 ---
@@ -46,7 +46,7 @@
 
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaovictor.alfredo2009@gmail.com)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1414784852733198561)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/joaovictor-ifrn)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vilikinho098)
 
 </div>
 
@@ -55,7 +55,7 @@
 # 🕹️Contribution Graph
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/joaovictor-ifrn/joaovictor-ifrn/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/joaovictor-ifrn/joaovictor-ifrn/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/joaovictor-ifrn/joaovictor-ifrn/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vilikinho098/Vilikinho098/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vilikinho098/Vilikinho098/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Vilikinho098/Vilikinho098/output/pacman-contribution-graph-dark.svg">
 </picture>
